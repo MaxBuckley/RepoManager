@@ -1,0 +1,20 @@
+.header {
+  background-color: #24292e;
+}
+
+.headerList {
+  padding: 0px 0px 0px 15px !important;
+}
+
+.item {
+  font-weight: 600;
+  font-size: 16px !important
+}
+
+.headerLink {
+  color: white;
+}
+
+.pageContainer {
+  padding-top: 15px !important;
+}
